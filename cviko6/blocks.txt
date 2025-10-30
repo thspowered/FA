@@ -1,0 +1,39 @@
+Výška bloku: 0
+Hash bloku: 003902949f65326f6d6fd7952467e64ae4c6d4f3b2d501d360458d854b44193c
+Hash předchozího: -
+Data: 00f487e544f3a223ffa889f665d2e6670741fe4bd7f610cd7a525030c16d653a -> Hash(Data RAW)
+Data RAW: 626927 -> (Random cislo)
+Nonce: 895733210
+Obtížnost: 2
+
+Výška bloku: 1
+Hash bloku: 000cdb6aca5626692ccf93926c2d037c0edea1426ea3f9e466bfccf14a3ee743
+Hash předchozího: 003902949f65326f6d6fd7952467e64ae4c6d4f3b2d501d360458d854b44193c
+Data: 7a984e963adc505712719520dffc4ee2a120a3f59734c4e90d1d0c2f7078fe5c -> Hash(Data RAW)
+Data RAW: 614370 -> (Random cislo)
+Nonce: 774923624
+Obtížnost: 3
+
+Výška bloku: 2
+Hash bloku: 0000842fef8441704a51832d72316e516f0b28c60e2883adedb8f8d76afe13eb
+Hash předchozího: 000cdb6aca5626692ccf93926c2d037c0edea1426ea3f9e466bfccf14a3ee743
+Data: d032cbf2bd301ea04bf1d481d9de8c406a70212eb59c76b76023594dc67f84de -> Hash(Data RAW)
+Data RAW: 357801 -> (Random cislo)
+Nonce: 891188772
+Obtížnost: 4
+
+Výška bloku: 3
+Hash bloku: 00092fd2e3ac9dfc7d1c55996b86cdf2f2ce3cc53ae346d365db7cbf51b79c4a
+Hash předchozího: 0000842fef8441704a51832d72316e516f0b28c60e2883adedb8f8d76afe13eb
+Data: 825ad2cff6ba9b6b3600fef4520b9bbda3b9a9ce51c04956595c36f4f238b50c -> Hash(Data RAW)
+Data RAW: 291411 -> (Random cislo)
+Nonce: 309723120
+Obtížnost: 3
+
+Výška bloku: 4
+Hash bloku: 00279d25d43d3d0f97f626c8c148f3a96d92dd1303976acc845abd5f8d544b71
+Hash předchozího: 00092fd2e3ac9dfc7d1c55996b86cdf2f2ce3cc53ae346d365db7cbf51b79c4a
+Data: 951cb0f2db02fa796209b878d29d237393258329fc7b584e4e3ca33688eea1fb -> Hash(Data RAW)
+Data RAW: 857650 -> (Random cislo)
+Nonce: 362236835
+Obtížnost: 2
